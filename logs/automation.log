@@ -1,90 +1,12 @@
-2024-08-23 09:41:34 DEBUG TestNG:82 - suiteXmlPath: "F:\Prashant Software Testing\Softwear Testing\3.WorkPlace\Eclipse Projects\EclipsePractice\OpencartV121\master.xml"
-2024-08-23 09:41:45 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
-2024-08-23 09:41:46 INFO  TC001_AccountRegistrationTest:21 - **** Clikced on MyAccount Link
-2024-08-23 09:41:47 INFO  TC001_AccountRegistrationTest:24 - **** Clicked on Register Link
-2024-08-23 09:41:47 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
-2024-08-23 09:41:49 INFO  TC001_AccountRegistrationTest:41 - *** Validating expected message ***
-2024-08-23 09:41:49 INFO  TC001_AccountRegistrationTest:61 - **** Finished TC001_AccountRegistrationTest ****
-2024-08-23 09:41:56 INFO  TC002_LoginTest:15 - ***Starting TC002 Login Test****
-2024-08-23 09:41:58 INFO  TC002_LoginTest:43 - *** Finshed TC002 Login Test
-2024-08-23 09:42:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2024-08-23 09:42:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2024-08-23 09:42:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2024-08-23 09:42:05 INFO  TC003_LoginDataDrivenTest:24 - **** Starting TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:07 INFO  TC003_LoginDataDrivenTest:74 - **** Finished TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:07 INFO  TC003_LoginDataDrivenTest:24 - **** Starting TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:09 INFO  TC003_LoginDataDrivenTest:74 - **** Finished TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:09 INFO  TC003_LoginDataDrivenTest:24 - **** Starting TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:11 INFO  TC003_LoginDataDrivenTest:74 - **** Finished TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:11 INFO  TC003_LoginDataDrivenTest:24 - **** Starting TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:23 INFO  TC003_LoginDataDrivenTest:74 - **** Finished TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:23 INFO  TC003_LoginDataDrivenTest:24 - **** Starting TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:26 INFO  TC003_LoginDataDrivenTest:74 - **** Finished TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:26 INFO  TC003_LoginDataDrivenTest:24 - **** Starting TC003_LoginDataDrivenTest *****
-2024-08-23 09:42:30 INFO  TC003_LoginDataDrivenTest:74 - **** Finished TC003_LoginDataDrivenTest *****
-2024-08-23 10:04:08 DEBUG TestNG:82 - suiteXmlPath: "F:\Prashant Software Testing\Softwear Testing\3.WorkPlace\Eclipse Projects\EclipsePractice\OpencartV121\master.xml"
-2024-08-23 10:04:15 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
-2024-08-23 10:04:16 INFO  TC001_AccountRegistrationTest:21 - **** Clikced on MyAccount Link
-2024-08-23 10:04:17 INFO  TC001_AccountRegistrationTest:24 - **** Clicked on Register Link
-2024-08-23 10:04:17 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
-2024-08-23 10:04:19 INFO  TC001_AccountRegistrationTest:41 - *** Validating expected message ***
-2024-08-23 10:04:19 INFO  TC001_AccountRegistrationTest:61 - **** Finished TC001_AccountRegistrationTest ****
-2024-08-23 10:04:25 INFO  TC002_LoginTest:15 - ***Starting TC002 Login Test****
-2024-08-23 10:04:27 INFO  TC002_LoginTest:43 - *** Finshed TC002 Login Test
+2024-08-26 12:34:42 DEBUG TestNG:82 - suiteXmlPath: "F:\Prashant Software Testing\Softwear Testing\3.WorkPlace\Eclipse Projects\EclipsePractice\OpencartV121\master.xml"
+2024-08-26 12:34:43 INFO  Utils:112 - [TestNG] Running:
+  F:\Prashant Software Testing\Softwear Testing\3.WorkPlace\Eclipse Projects\EclipsePractice\OpencartV121\master.xml
+
+2024-08-26 12:34:55 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-08-26 12:34:55 INFO  TC001_AccountRegistrationTest:21 - **** Clikced on MyAccount Link
+2024-08-26 12:34:56 INFO  TC001_AccountRegistrationTest:24 - **** Clicked on Register Link
+2024-08-26 12:34:56 INFO  TC001_AccountRegistrationTest:29 - Providing customer details
+2024-08-26 12:34:58 INFO  TC001_AccountRegistrationTest:41 - *** Validating expected message ***
+2024-08-26 12:34:58 INFO  TC001_AccountRegistrationTest:61 - **** Finished TC001_AccountRegistrationTest ****
+2024-08-26 12:35:04 INFO  TC002_LoginTest:15 - ***Starting TC002 Login Test****
+2024-08-26 12:35:06 INFO  TC002_LoginTest:43 - *** Finshed TC002 Login Test
